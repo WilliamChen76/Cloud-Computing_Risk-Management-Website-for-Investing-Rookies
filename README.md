@@ -134,7 +134,7 @@ To log in, you can use the credentials for the trial accounts that have been cre
 
 -   User 1 (with portfolio of Grade A as of 17 Apr, 10:03 pm): [account1\@test.com](mailto:account1@test.com){.email} (Password: example123)
 
--   User 2 (with portfolio of Grade B as of 17 Apr, 10:03 pm): [accountb\@test.com](mailto:accountb@test.com){.email} (Password: bbb)
+-   User 2 (with portfolio of Grade B as of 17 Apr, 10:03 pm): [accountb\@gmail.com](mailto:accountb@gmail.com){.email} (Password: bbb)
 
 -   User 3 (with portfolio of Grade C as of 17 Apr, 10:03 pm): [account3\@test.com](mailto:account3@test.com){.email} (Password: example123)
 
